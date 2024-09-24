@@ -27,12 +27,19 @@ The dataset includes:
 - Inventory Data (Stock Levels, Replenishment Dates)
 
 In my dashboard analysis ,I had performed various analysis and tasks 📑
+
 👉Data Collection
+
 👉Data Cleaning
+
 👉Data Processing
+
 👉Data Formatting
+
 👉Data Visualization
+
 👉Dax functions, Power query editor all above using MS-excel & Power Bi for creating valuable insights📊📈
+
 1.Total sales by fat content
 2.Total sales by item Type
 3.Fat content by Outlet for total sales
